@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Weekly-Test-2/static/css/main.e71c18cf.css",
+    "main.js": "/Weekly-Test-2/static/js/main.4f9c36ff.js",
+    "index.html": "/Weekly-Test-2/index.html",
+    "main.e71c18cf.css.map": "/Weekly-Test-2/static/css/main.e71c18cf.css.map",
+    "main.4f9c36ff.js.map": "/Weekly-Test-2/static/js/main.4f9c36ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e71c18cf.css",
+    "static/js/main.4f9c36ff.js"
+  ]
+}
