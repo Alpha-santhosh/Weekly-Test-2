@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+  text-align: center;
+  font-family: 'DM Sans';
+}
+
+.section{
+  /* background-color: blue; */
+  width: 100vw;
+  height: 100vh;
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: center;
+}
+
+h1{
+  margin: 1rem;
+}
+
+.container{
+  width: 90%;
+  height: 100%;
+  /* border: 2px solid red; */
+  /* padding: 10px; */
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  
+}
